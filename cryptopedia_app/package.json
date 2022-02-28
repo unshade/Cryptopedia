@@ -12,12 +12,12 @@
   ],
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
-  "devDependencies": {
-    "cordova-ios": "^6.2.0"
-  },
   "cordova": {
     "platforms": [
       "ios"
     ]
+  },
+  "devDependencies": {
+    "cordova-ios": "^6.2.0"
   }
 }
